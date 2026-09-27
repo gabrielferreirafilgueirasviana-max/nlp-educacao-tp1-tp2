@@ -29,7 +29,3 @@ O TP1 coleta as avaliações ao vivo, ordenadas pelas mais recentes, então cada
 2. Menu **Ambiente de execução → Executar tudo**.
 
 O notebook instala as dependências, lê o CSV deste repositório e baixa o modelo Word2Vec do NILC (skip-gram, 300 dimensões, ~1,1 GB) do [Hugging Face](https://huggingface.co/nilc-nlp/word2vec-skip-gram-300d). A execução completa leva poucos minutos.
-
-## Referência do modelo
-
-HARTMANN, N. et al. *Portuguese Word Embeddings: Evaluating on Word Analogies and Natural Language Tasks*. STIL, 2017.
