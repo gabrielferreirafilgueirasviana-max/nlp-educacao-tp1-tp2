@@ -15,7 +15,7 @@ Trabalho de outra disciplina, construído sobre o mesmo corpus: os textos são c
 
 | Trabalho | Notebook | Abrir no Colab |
 |---|---|---|
-| **TP2** — MultiDense Engine: MLP em TensorFlow/Keras *(em desenvolvimento)* | [`multidense_engine.ipynb`](multidense_engine.ipynb) | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gabrielferreirafilgueirasviana-max/nlp-educacao-tp1-tp2/blob/main/multidense_engine.ipynb) |
+| **TP2** — MultiDense Engine: MLP em TensorFlow/Keras | [`multidense_engine.ipynb`](multidense_engine.ipynb) | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gabrielferreirafilgueirasviana-max/nlp-educacao-tp1-tp2/blob/main/multidense_engine.ipynb) |
 
 ## Corpus
 
